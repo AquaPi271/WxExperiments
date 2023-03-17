@@ -12,6 +12,12 @@ $ git commit -am "Add wxWidgets module"
 $ git push origin master
 ```
 
+Make sure to clone submodules to wxWidgets itself:
+
+```
+$ git submodule update --init --recursive
+```
+
 
 ### Git Setup
 
