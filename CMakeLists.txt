@@ -21,3 +21,4 @@ add_subdirectory(third_party/wxWidgets)
 # Build individual wxWidget applications.
 
 add_subdirectory(wxHello)
+add_subdirectory(wxLearn)
